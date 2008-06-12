@@ -1,0 +1,6 @@
+I made this board game!  It's really fun -- try it!
+
+The source code is really rough, because it's a bit of a cobbling together of various ideas I had for a general board game engine in ruby.  Might re-implement it in Python or Factor eventually, but I thought I'd share the rough code in case anyone cares.
+
+The rules, and various binary versions, are here: http://nickretallack.com/portfolio/2
+Sorry, but I haven't gotten it to work on a mac yet.  The SDL bindings are somewhat different -- I'd need to change some things.
